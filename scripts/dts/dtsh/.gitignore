@@ -1,0 +1,11 @@
+# Python
+dtsh.egg-info/
+__pycache__/
+.mypy_cache/
+.pytest_cache/
+
+# Emacs
+.project
+
+# Generated
+src/dtsh/__about__.py
